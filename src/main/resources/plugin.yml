@@ -1,0 +1,4 @@
+name: LuxryColors
+version: '1.0'
+main: club.luxry.luxryColors.LuxryColors
+api-version: '1.18'
